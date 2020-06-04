@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "language": "English",
+    "pages": {
+      "home": {
+        "title": "Home"
+      },
+      "about": {
+        "title": "About"
+      }
+    }
+  }
+}
