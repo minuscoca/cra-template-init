@@ -1,8 +1,35 @@
 {
   "name": "cra-template-init",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "license": "MIT",
+  "description": "Create a template for create react app.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minuscoca/cra-template-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minuscoca/cra-template-init/issues"
+  },
   "private": false,
   "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "cra-template",
+    "redux",
+    "reduxjs",
+    "react-redux",
+    "redux-thunk",
+    "immutable",
+    "react-immutable",
+    "react-router-dom",
+    "i18next"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
