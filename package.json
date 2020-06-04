@@ -1,7 +1,8 @@
 {
-  "name": "cat",
-  "version": "0.1.0",
-  "private": true,
+  "name": "cra-template-init",
+  "version": "0.1.1",
+  "private": false,
+  "main": "template.json",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
