@@ -1,13 +1,23 @@
 {
   "translation": {
     "language": "English",
-    "pages": {
+    "page": {
       "home": {
         "title": "Home"
       },
       "about": {
         "title": "About"
+      },
+      "user": {
+        "title": "User"
       }
+    },
+    "button": {
+      "login": "Login",
+      "logout": "Logout"
+    },
+    "message": {
+      "fetchingUser": "Fetching user data..."
     }
   }
 }

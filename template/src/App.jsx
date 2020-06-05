@@ -8,6 +8,7 @@ import {
 import store from 'redux/store'
 import Home from 'pages/Home'
 import About from 'pages/About'
+import User from 'pages/User'
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
         </Route>
         <Route path='/about'>
           <About />
+        </Route>
+        <Route path='/user'>
+          <User />
         </Route>
       </Switch>
     </Provider>

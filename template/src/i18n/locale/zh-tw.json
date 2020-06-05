@@ -1,13 +1,23 @@
 {
   "translation": {
     "language": "中文",
-    "pages": {
+    "page": {
       "home": {
         "title": "首頁"
       },
       "about": {
         "title": "關於"
+      },
+      "user": {
+        "title": "用戶"
       }
+    },
+    "button": {
+      "login": "登入",
+      "logout": "登出"
+    },
+    "message": {
+      "fetchingUser": "載入用戶資料..."
     }
   }
 }

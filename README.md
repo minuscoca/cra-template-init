@@ -18,6 +18,7 @@ yarn create react-app my-app --template init
 * react-dom: 16.13.1
 * react-scripts: 3.4.1
 * axios: 0.19.2
+* react-jss: 10.2.0
 * clsx: 1.1.1
 * reset-css: 5.0.1
 * moment: 2.26.0

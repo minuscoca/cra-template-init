@@ -1,6 +1,6 @@
 {
   "name": "cra-template-init",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "description": "Create a template for create react app.",
   "repository": {
@@ -24,7 +24,8 @@
     "immutable",
     "react-immutable",
     "react-router-dom",
-    "i18next"
+    "i18next",
+    "react-jss"
   ],
   "files": [
     "template",
@@ -44,6 +45,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-i18next": "^11.5.0",
+    "react-jss": "^10.2.0",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
